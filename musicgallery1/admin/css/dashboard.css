@@ -1,0 +1,186 @@
+
+
+
+.home{
+height:40px;
+margin-top:30px;
+}
+
+#home{
+color:white;
+margin-left:10px;
+font-weight:bold;}
+
+
+#home1{
+font-size:27px;
+font-family:"Courier New", Courier, monospace;
+color:white;
+margin-left:10px;
+font-weight:bold;}
+
+
+
+#home2{
+font-size:27px;
+font-family:"Courier New", Courier, monospace;
+color:white;
+margin-left:10px;
+font-weight:bold;}
+
+
+
+#home3{
+font-size:27px;
+font-family:"Courier New", Courier, monospace;
+color:white;
+margin-left:10px;
+font-weight:bold;}
+
+
+#home4{
+font-size:27px;
+font-family:"Courier New", Courier, monospace;
+color:white;
+margin-left:10px;
+font-weight:bold;}
+
+
+#home5{
+font-size:27px;
+font-family:"Courier New", Courier, monospace;
+color:white;
+margin-left:10px;
+font-weight:bold;}
+
+
+#home6{
+font-size:27px;
+font-family:"Courier New", Courier, monospace;
+color:white;
+margin-left:10px;
+font-weight:bold;}
+
+
+#home7{
+font-size:27px;
+font-family:"Courier New", Courier, monospace;
+color:white;
+margin-left:10px;
+font-weight:bold;}
+
+
+
+.enquiry{
+height:40px;
+margin-top:30px;
+cursor:pointer;}
+
+.slider{
+height:40px;
+margin-top:30px;
+cursor:pointer;}
+
+
+
+
+
+.enquiry1{
+background:#970000;
+display:none;}
+
+.enquiry1 ul{
+text-align:center;}
+
+.enquiry1 ul li a{
+
+text-decoration:none;
+font-size:20px;
+font-weight:bold;
+color:white;}
+
+.enquiry1 ul li a:hover{
+color:#000080;}
+
+
+
+.enquiry2{
+background:#970000;
+display:none;}
+
+.enquiry2 ul{
+text-align:center;}
+
+.enquiry2 ul li a{
+
+text-decoration:none;
+font-size:20px;
+font-weight:bold;
+color:white;}
+
+.enquiry2 ul li a:hover{
+color:#000080;}
+
+
+
+.enquiry3{
+background:#970000;
+display:none;}
+
+.enquiry3 ul{
+text-align:center;}
+
+.enquiry3 ul li a{
+
+text-decoration:none;
+font-size:20px;
+font-weight:bold;
+color:white;}
+
+.enquiry3 ul li a:hover{
+color:#000080;}
+
+
+
+.enquiry4{
+background:#970000;
+display:none;}
+
+.enquiry4 ul{
+text-align:center;}
+
+.enquiry4 ul li a{
+
+text-decoration:none;
+font-size:20px;
+font-weight:bold;
+color:white;}
+
+.enquiry4 ul li a:hover{
+color:#000080;}
+
+
+
+
+
+
+.enquiry5{
+background:#970000;
+display:none;}
+
+.enquiry5 ul{
+text-align:center;}
+
+.enquiry5 ul li a{
+
+text-decoration:none;
+font-size:20px;
+font-weight:bold;
+color:white;}
+
+.enquiry5 ul li a:hover{
+color:#000080;}
+
+
+#file1{
+width:250px;}

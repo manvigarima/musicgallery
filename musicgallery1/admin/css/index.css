@@ -1,0 +1,46 @@
+/* CSS Document */
+
+*{margin:0px auto;}
+
+#heading{
+text-align:center;
+font-family:"Courier New", Courier, monospace;
+font-weight:bolder;
+font-size:35px;
+color:#930000;}
+
+
+input[type=text]{
+height:60px;
+text-align:center;
+background:#CECECE;
+border:2px solid #930000;
+font-size:20px;
+font-weight:bold;}
+
+
+
+input[type=password]{
+height:60px;
+text-align:center;
+background:#CECECE;
+border:2px solid #930000;
+font-size:20px;
+font-weight:bold;}
+
+
+input[type=submit]{
+background:#930000;
+height:40px;
+border:1px solid white;
+color:white;
+font-weight:bold;
+font-size:18px;
+}
+
+
+#seclog{
+display:none;}
+
+#headr{
+display:none;}
